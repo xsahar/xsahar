@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sahar</h1>
-<h3 align="center">A future Web developer from Bahrain</h3>
+<h3 align="center">A future Web developer</h3>
 
-- 🔭 I’m currently working on **Ascii-art-web-dockerize**
+- 🔭 I’m currently working on **Ascii-art-web-export**
 
-- 🌱 I’m currently learning **docker**
+- 🌱 I’m currently learning **API**
 
 <p align="left">
 </p>
