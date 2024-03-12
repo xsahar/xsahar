@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sahar</h1>
 <h3 align="center">A future Web developer</h3>
 
-- 🔭 I’m currently working on **Ascii-art-web-export**
+- 🔭 I’m currently working on **Groupie-tracker**
 
 - 🌱 I’m currently learning **API**
 
