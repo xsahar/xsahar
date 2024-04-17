@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sahar</h1>
-<h2 align="left">A Future Web Developer</h2>
+<h2 align="left">A Future Web Developer from Bahrain</h2>
 
 - 🔭 I’m currently working on **Groupie-tracker**
 
