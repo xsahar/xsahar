@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Groupie-tracker**
 
-- 🌱 I’m currently learning *API*
+- 🌱 I’m currently learning 
 
 <p align="left">
 </p>
