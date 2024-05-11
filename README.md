@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Reboot Project**
 
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning **API**
 
 <p align="left">
 </p>
