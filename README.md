@@ -4,7 +4,7 @@
 
 ### Software Developer specializing in Mobile Application Development
 
-I build mobile, web, backend, systems, and game projects. My main focus is creating practical mobile applications with **Flutter and Dart**, supported by experience in backend development, APIs, databases, and real-time systems.
+I build mobile, web, backend, systems, and game projects. My main focus is creating practical mobile applications with **Flutter and Dart**, supported by experience in backend development, APIs, databases, real-time communication, and cross-platform development workflows.
 
 <p>
   <a href="https://github.com/xsahar?tab=repositories">View my projects →</a>
@@ -18,6 +18,7 @@ I build mobile, web, backend, systems, and game projects. My main focus is creat
 - 🌐 Experienced with **React, Next.js, JavaScript, HTML, and CSS**
 - ⚙️ Building backend services with **Go, REST APIs, SQLite, and WebSockets**
 - 🦀 Exploring systems and application development with **Rust**
+- 🛠️ Comfortable working with **VS Code, WSL, Git Bash, PowerShell, and terminal-based workflows**
 - 🐳 Comfortable with **Docker, Docker Compose, Git, and GitHub**
 - 🎮 Interested in interactive applications, games, and real-time features
 
@@ -64,12 +65,14 @@ Multiplayer browser game using JavaScript, a custom DOM framework, and WebSocket
 ## Skills
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,go,rust,python,js,react,nextjs,html,css,docker,graphql,git,github" alt="Flutter, Dart, Go, Rust, Python, JavaScript, React, Next.js, HTML, CSS, Docker, GraphQL, Git, and GitHub">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,go,rust,python,js,react,nextjs,html,css,docker,graphql,git,github,vscode" alt="Flutter, Dart, Go, Rust, Python, JavaScript, React, Next.js, HTML, CSS, Docker, GraphQL, Git, GitHub, VS Code" />
 </p>
 
 **Primary focus:** Flutter · Dart · Mobile Applications · API Integration · Location Services
 
 **Additional experience:** Go · Rust · Python · JavaScript · React · Next.js · SQLite · WebSockets · Docker
+
+**Development environment:** VS Code · WSL · Git Bash · PowerShell · Terminal workflows
 
 <div align="center">
 
